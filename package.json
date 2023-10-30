@@ -1,0 +1,24 @@
+{
+  "name": "alura-node-first-library",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\" style=\"background-color:#6E1A7A\">",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcospaulopaiva/alura-node-first-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcospaulopaiva/alura-node-first-library/issues"
+  },
+  "homepage": "https://github.com/marcospaulopaiva/alura-node-first-library#readme",
+  "dependencies": {
+    "chalk": "5.3.0"
+  }
+}
